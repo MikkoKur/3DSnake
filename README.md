@@ -3,4 +3,4 @@
 
 <br><br>
 
-![](https://github.com/MikkoKur/3DSnake/ScreenShots/pic1.png)
+![](https://github.com/MikkoKur/3DSnake/blob/main/ScreenShots/pic1.png)
